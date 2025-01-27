@@ -8,7 +8,7 @@ on:
 
   schedule:
 
-    - cron:  "0 0 * * *"
+    - cron:  "0 9 1 * *"  # At 09:00 on day-of-month 1
 
 
 jobs:
