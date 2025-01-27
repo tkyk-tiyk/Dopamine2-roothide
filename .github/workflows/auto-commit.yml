@@ -46,4 +46,4 @@ jobs:
 
           git commit -m "[add] auto-commit:${{ env.CURRENT_DATETIME }}"
 
-          git push origin main
+          git push origin 2.x
